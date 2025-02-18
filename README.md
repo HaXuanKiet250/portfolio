@@ -3,26 +3,14 @@
 #### Technical Skills: Python, SQL, Power BI, Execl
 
 ## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
-
-## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
-
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+Information Technology | Vietnam American College at Ho Chi Minh City (_May 2024_)
+Data Analyst | Mindx Technology School at  Ho Chi Minh City (_March 2025_)
 
 ## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+### Healthcare Service Data Analysis
+[Download the full report](./D:\Portfolio)
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
-
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+This method utilized Python for data processing and visualization, enabling deeper insights into hospital operations and patient demographics. The analysis identified high-cost medical procedures, optimized staffing based on seasonal trends, and provided strategic recommendations for improving resource allocation. By analyzing demographic data, we highlighted critical areas such as the impact of aging populations on hospital visits and recommended targeted improvements in healthcare facilities. This approach delivers actionable insights with a focus on operational efficiency, patient satisfaction, and cost management.
 
 ### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
 [Publication](https://www.mdpi.com/1424-8220/22/11/4240)
