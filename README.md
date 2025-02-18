@@ -1,5 +1,5 @@
 # Data Analyst
-#About Me
+About Me
 I am an aspiring Data Analyst with a strong passion for uncovering insights through data. With a background from MindX Technology School, I have developed skills in data processing, visualization, and statistical analysis using Python, SQL, and other analytical tools. My interests lie in IoT & Smart Devices, where I aim to apply data analytics to optimize efficiency and decision-making. Currently, I am building projects that showcase my ability to work with real-world datasets, providing actionable insights to drive business growth. I am eager to learn, collaborate, and contribute to data-driven solutions in a dynamic environment.
 
 #### Technical Skills: Python, SQL, Power BI
