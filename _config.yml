@@ -2,7 +2,14 @@ title: "Portfolio"
 author: "Hà Xuân Kiệt"
 email: "haxuankiet250@gmail.com"
 description: "Data Analyst"
-github_username: HaXuanKiet250/portfolio
+github_username: HaXuanKiet250
 linkedin_username: your-linkedin
+
 show_downloads: true
 theme: jekyll-theme-minimal
+
+logo: "logomain.jpeg"
+
+social:
+  github: "https://github.com/HaXuanKiet250"
+  linkedin: "https://linkedin.com/in/your-linkedin"
